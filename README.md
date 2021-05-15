@@ -1,2 +1,2 @@
-# da-rmmv-plugins
-RPG Maker MV Plugins - dynamic &amp; random for anything
+# rmmv-plugins-air
+RPG Maker MV Plugins - anything is random
